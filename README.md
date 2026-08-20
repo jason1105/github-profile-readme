@@ -10,16 +10,16 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/lvw1105?tab=followers">
-    <img src="https://img.shields.io/github/followers/lvw1105?label=Followers&style=flat-square&color=38bdf8&logo=github&logoColor=white" alt="followers" />
+  <a href="https://github.com/jason1105?tab=followers">
+    <img src="https://img.shields.io/github/followers/jason1105?label=Followers&style=flat-square&color=38bdf8&logo=github&logoColor=white" alt="followers" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/⭐%20Stars-0-ffd700?style=flat-square&logo=github&logoColor=white" alt="total stars" />
+  <img src="https://img.shields.io/badge/⭐%20Stars-14-ffd700?style=flat-square&logo=github&logoColor=white" alt="total stars" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lvw1105&color=e94560&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jason1105&color=e94560&style=flat-square&label=Profile+Views" alt="profile views" />
   &nbsp;
-  <a href="https://github.com/lvw1105">
-    <img src="https://img.shields.io/badge/GitHub-lvw1105-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
+  <a href="https://github.com/jason1105">
+    <img src="https://img.shields.io/badge/GitHub-jason1105-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@
 
 | | |
 |:---|:---|
-| 🔭 **Currently Building** | **[tsie-tunnel](https://github.com/lvw1105/tsie-tunnel)** — HTTP-over-Custom-Protocol 透明隧道 |
-| 📰 **Curating** | **[ai-weekly-digest](https://github.com/lvw1105/ai-weekly-digest)** — AI 驱动的技术周刊 |
+| 🔭 **Currently Building** | **[tsie-tunnel](https://github.com/jason1105/tsie-tunnel)** — HTTP-over-Custom-Protocol 透明隧道 |
+| 📰 **Curating** | **[ai-weekly-digest](https://github.com/jason1105/ai-weekly-digest)** — AI 驱动的技术周刊 |
 | 🌱 **Learning** | **Rust 🦀** · **LLM Agent 架构** |
 | 💬 **Ask me about** | `分布式系统` &nbsp; `协议设计` &nbsp; `AI 工具链` &nbsp; `系统架构` |
 | ⚡ **Fun Fact** | *好的代码和好的文章一样，应该让人读完觉得「就该这样」* |
@@ -88,16 +88,16 @@
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvw1105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=e94560&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvw1105&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jason1105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=e94560&text_color=c9d1d9&ring_color=38bdf8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason1105&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lvw1105&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=e94560&fire=e94560&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jason1105&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=e94560&fire=e94560&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvw1105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=e94560&point=38bdf8&area=true&area_color=1a1b2e" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jason1105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=e94560&point=38bdf8&area=true&area_color=1a1b2e" alt="Contribution Graph" />
 </p>
 
 ---
@@ -105,12 +105,12 @@
 ## 🚀 &nbsp;Featured Projects
 
 <p align="center">
-  <a href="https://github.com/lvw1105/tsie-tunnel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lvw1105&repo=tsie-tunnel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="tsie-tunnel" />
+  <a href="https://github.com/jason1105/tsie-tunnel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jason1105&repo=tsie-tunnel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="tsie-tunnel" />
   </a>
   &nbsp;
-  <a href="https://github.com/lvw1105/ai-weekly-digest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lvw1105&repo=ai-weekly-digest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="ai-weekly-digest" />
+  <a href="https://github.com/jason1105/ai-weekly-digest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jason1105&repo=ai-weekly-digest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="ai-weekly-digest" />
   </a>
 </p>
 
@@ -120,9 +120,7 @@
 
 <!-- Activity is auto-injected by GitHub Actions every 6 hours -->
 
-- 🔨 `lvw1105/tsie-tunnel` — initial commit: HTTP-over-Custom-Protocol transparent tunnel
-- 🔨 `lvw1105/ai-weekly-digest` — feat: add automated digest generation pipeline
-- 🔨 `lvw1105/lvw1105` — chore: set up auto-updating GitHub profile README
+- 🔨 No recent public push activity found
 
 ---
 
@@ -138,7 +136,7 @@ _最新周刊即将发布，敬请期待..._
 <summary>🏆 &nbsp;GitHub Trophies</summary>
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lvw1105&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jason1105&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 </details>
 
@@ -148,9 +146,9 @@ _最新周刊即将发布，敬请期待..._
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-08-20 00:00 UTC</b>
+    ⏰ Last updated: <b>2026-08-20 06:20 UTC</b>
     &nbsp;·&nbsp;
-    ⭐ Total stars: <b>0</b>
+    ⭐ Total stars: <b>14</b>
   </sub>
 </p>
 

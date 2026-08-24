@@ -97,10 +97,6 @@
 ## 🚀 &nbsp;Featured Projects
 
 <p align="center">
-  <a href="https://github.com/GITHUB_USER/tsie-tunnel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USER&repo=tsie-tunnel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="tsie-tunnel" />
-  </a>
-  &nbsp;
   <a href="https://github.com/GITHUB_USER/ai-weekly-digest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USER&repo=ai-weekly-digest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="ai-weekly-digest" />
   </a>

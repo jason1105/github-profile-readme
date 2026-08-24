@@ -116,7 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-_最新周刊即将发布，敬请期待..._
+**[build-your-own-x](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 34 周）
+
+> 这是一个汇集了通过从零开始重建各类技术来学习编程的教程集，涵盖数据库、操作系统、编程语言等领域。开发者可以动手实现核心原理，加深对底层机制的理解。其价值在于提供实践路径，提升工程能力和系统设计水平，是进阶学习的宝贵资源。
 
 ---
 
@@ -134,7 +136,7 @@ _最新周刊即将发布，敬请期待..._
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-08-24 06:41 UTC</b>
+    ⏰ Last updated: <b>2026-08-24 12:33 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>

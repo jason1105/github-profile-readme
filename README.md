@@ -97,10 +97,6 @@
 ## 🚀 &nbsp;Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jason1105/tsie-tunnel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jason1105&repo=tsie-tunnel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="tsie-tunnel" />
-  </a>
-  &nbsp;
   <a href="https://github.com/jason1105/ai-weekly-digest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jason1105&repo=ai-weekly-digest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=e94560" alt="ai-weekly-digest" />
   </a>
@@ -138,7 +134,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-08-24 01:43 UTC</b>
+    ⏰ Last updated: <b>2026-08-24 01:47 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>

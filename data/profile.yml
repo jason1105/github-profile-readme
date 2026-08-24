@@ -9,20 +9,21 @@ currently_learning:
 fun_fact: "我相信好的代码和好的文章一样，应该让人读完觉得「就该这样」"
 
 social:
-  github: "lvw1105"
+  github: "jason1105"
 
 projects:
+  # tsie-tunnel 未在 GitHub 上公开，故不附链接，避免主页出现 404
   - name: "tsie-tunnel"
     desc: "HTTP-over-Custom-Protocol 透明隧道"
-    url: "https://github.com/lvw1105/tsie-tunnel"
   - name: "ai-weekly-digest"
     desc: "AI 驱动的技术周刊"
-    url: "https://github.com/lvw1105/ai-weekly-digest"
+    url: "https://github.com/jason1105/ai-weekly-digest"
 
+# 与 resume-forge/data/resume.yml 保持一致，不列简历中没有的技术
 tech_stack:
-  languages: ["Python", "Go", "Rust", "TypeScript", "Shell", "C"]
-  infra:     ["Docker", "Kubernetes", "GitHub Actions", "Linux", "Nginx"]
-  ai:        ["OpenAI", "Claude", "LangChain", "HuggingFace"]
-  databases: ["PostgreSQL", "Redis", "SQLite", "ClickHouse"]
+  languages:  ["Java", "TypeScript", "Python", "Rust（学习中）"]
+  frameworks: ["Spring Boot", "React", "Next.js"]
+  tools:      ["Docker", "Git", "Maven", "GitHub Actions"]
+  databases:  ["MySQL", "Redis"]
 
-digest_url: "https://lvw1105.github.io/ai-weekly-digest/_data/latest.json"
+digest_url: "https://jason1105.github.io/ai-weekly-digest/_data/latest.json"

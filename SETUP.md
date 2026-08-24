@@ -6,8 +6,8 @@ GitHub activates a special profile README **only** when the repository is named
 identically to your username.
 
 ```
-github.com/lvw1105/lvw1105   ✅  shown on your profile page
-github.com/lvw1105/profile   ✗   just a normal repo
+github.com/jason1105/jason1105   ✅  shown on your profile page
+github.com/jason1105/profile     ✗   just a normal repo
 ```
 
 Create (or rename) the repo so that **owner == repo name**, then push this
@@ -19,7 +19,7 @@ directory to the `main` branch.
 
 ```bash
 # Clone or init the repo with the correct name
-git clone git@github.com:lvw1105/lvw1105.git
+git clone git@github.com:jason1105/jason1105.git
 # Copy these files in, then:
 git add .
 git commit -m "feat: add auto-updating profile README"
@@ -118,7 +118,7 @@ no credentials needed, and the stat images update on their own schedule.
 ```bash
 cd github-profile-readme
 pip install requests pyyaml
-GITHUB_TOKEN=ghp_... GITHUB_USER=lvw1105 python scripts/update_readme.py
+GITHUB_TOKEN=$(gh auth token) GITHUB_USER=jason1105 python scripts/update_readme.py
 ```
 
 The script only writes `README.md`; the template is never modified.

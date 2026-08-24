@@ -139,11 +139,17 @@ def fetch_weekly_digest(username: str) -> str:
         resp = requests.get(url, timeout=10, headers={"User-Agent": "readme-updater/1.0"})
         if resp.status_code == 200:
             data = resp.json()
-            title   = data.get("title", "Untitled")
-            date    = data.get("date", "")
-            summary = data.get("summary", "").strip()
             base_url = url.rsplit("_data/", 1)[0]
-            header = f"**[{title}]({base_url})** ({date})" if date else f"**[{title}]({base_url})**"
+            # latest.json 的结构是 {generated_at, week, year, week_number, items:[...]}，
+            # 标题/摘要在 items 元素里，顶层没有 title/date/summary 字段。
+            items = data.get("items") or []
+            if not items:
+                return "_最新周刊即将发布，敬请期待..._"
+            top     = items[0]
+            title   = top.get("title", "Untitled")
+            summary = (top.get("summary") or "").strip()
+            date    = data.get("week") or (data.get("generated_at") or "")[:10]
+            header  = f"**[{title}]({base_url})**" + (f"（{date}）" if date else "")
             return f"{header}\n\n> {summary}" if summary else header
     except Exception as exc:
         print(f"  Info: digest fetch failed — {exc}")

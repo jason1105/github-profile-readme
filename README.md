@@ -126,7 +126,7 @@
 
 ## 📰 &nbsp;Latest from AI Weekly Digest
 
-<!-- Digest headline auto-fetched from lvw1105.github.io/ai-weekly-digest -->
+<!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
 _最新周刊即将发布，敬请期待..._
 

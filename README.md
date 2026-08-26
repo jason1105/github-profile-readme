@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[build-your-own-x](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 34 周）
+**[Apple introduces M6 and M5 Ultra](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 34 周）
 
-> 这是一个汇集了通过从零开始重建各类技术来学习编程的教程集，涵盖数据库、操作系统、编程语言等领域。开发者可以动手实现核心原理，加深对底层机制的理解。其价值在于提供实践路径，提升工程能力和系统设计水平，是进阶学习的宝贵资源。
+> Apple发布新一代M6与M5 Ultra芯片，性能与AI算力大幅跃升，面向专业计算与端侧AI推理。开发者可借此在Mac上运行更大模型与高负载任务，并期待后续Mac产品线升级带来生产力提升。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-08-26 08:56 UTC</b>
+    ⏰ Last updated: <b>2026-08-26 11:48 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>

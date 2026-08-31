@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Apple introduces M6 and M5 Ultra](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 34 周）
+**[OpenShot 4.0: Record, Edit, and Color Like Never Before](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 35 周）
 
-> Apple发布新一代M6与M5 Ultra芯片，性能与AI算力大幅跃升，面向专业计算与端侧AI推理。开发者可借此在Mac上运行更大模型与高负载任务，并期待后续Mac产品线升级带来生产力提升。
+> 开源视频编辑器 OpenShot 发布 4.0，新增录制、剪辑与调色功能，界面与性能大幅提升。对内容创作者和需要可定制视频管线的开发者而言，提供了更强大的本地处理方案，值得升级体验。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-08-31 12:19 UTC</b>
+    ⏰ Last updated: <b>2026-08-31 22:14 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>

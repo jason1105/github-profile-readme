@@ -116,9 +116,7 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[OpenShot 4.0: Record, Edit, and Color Like Never Before](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 35 周）
-
-> 开源视频编辑器 OpenShot 发布 4.0，新增录制、剪辑与调色功能，界面与性能大幅提升。对内容创作者和需要可定制视频管线的开发者而言，提供了更强大的本地处理方案，值得升级体验。
+_最新周刊即将发布，敬请期待..._
 
 ---
 
@@ -136,7 +134,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-09-03 02:23 UTC</b>
+    ⏰ Last updated: <b>2026-09-03 10:29 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
